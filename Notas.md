@@ -1,2 +1,2 @@
-** GW RG191 **
+# GW RG191
 Se trabajará con 915 MHz (Banda US) debido a las carácteristicas del equipo. 
