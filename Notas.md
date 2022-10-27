@@ -7,3 +7,18 @@ Para la administración de la configuración la información esta protegida ya q
 Crear una cuenta en: The Things Stack: https://console.cloud.thethings.network/
 Encontrar la ip del gateway, se recomienda el uso de nmap: nmap -sn 192.168.200.0/24 (comando utilizado)
 Ingresar con la credenciales: **USER: Netsose.01 PASSWORD: Netsose.01**
+Descargar el IDE: https://www.st.com/en/development-tools/stm32cubeide.html, para realizar la descarga se debe proporcionar un usuario y un correo electronico al que llegara el enlace de descarga.
+
+CAMBIOS
+
+
+
+
+
+
+
+
+
+
+## Observaciones
+La placa de desarrollo no presenta ningun indicador led ni ningun otro indicador que muestre que el dispositivo se encuentre encendido.
