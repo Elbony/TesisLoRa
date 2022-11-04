@@ -12,8 +12,6 @@ Encontrar la ip del gateway, se recomienda el uso de nmap: nmap -sn 192.168.200.
 Ingresar con la credenciales: **USER: Netsose.01 PASSWORD: Netsose.01**
 Descargar el IDE: https://www.st.com/en/development-tools/stm32cubeide.html, para realizar la descarga se debe proporcionar un usuario y un correo electronico al que llegara el enlace de descarga.
 
-CAMBIOS
-
 
 
 
